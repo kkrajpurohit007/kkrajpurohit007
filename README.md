@@ -3,7 +3,7 @@
 Hi, I'm K.K Rajpurohit, I love building utilities aimed at increasing Developer productivity :raised_hands: 
 
 - 🌱 I’m currently learning Java, Algo & Data Structure
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/kkrajpurohit007/github-readme-stats)
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/kkrajpurohit007/github-readme-status)
 - 💬 Ask me about anything [here](https://github.com/kkrajpurohit007/kkrajpurohit007/issues)
 
 
